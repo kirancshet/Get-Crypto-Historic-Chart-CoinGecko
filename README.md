@@ -41,7 +41,7 @@ The entire project follows the below folder structure:
 
 Follow me for more updates here:
 
-- [Article](https://sapnaedu.com/how-to-send-sms-via-vonage-in-python/)
+- [Article](https://sapnaedu.com/fetch-historical-market-price-of-cryptocurrency-from-coingecko-in-python/)
 - [Twitter](https://twitter.com/sapnaedu)
 - [Website](https://www.sapnaedu.com)
 - [LinkedIn](https://www.linkedin.com/in/kiranchandrashekhar/)
