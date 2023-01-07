@@ -1,4 +1,4 @@
-# Create OHLC CHART
+# Get Historical MarketPrice from CoinGecko in Python
 
 Python script takes a list of crypto tokens and fetch Historic data via CoinGecko REST API in Python
 
