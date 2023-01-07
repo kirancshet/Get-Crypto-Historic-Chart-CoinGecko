@@ -40,7 +40,7 @@ def get_historic_price(token:str, start_date:str, end_date:str)->list:
     
     headers = {}       
     headers['Content-type'] = 'application/json'
-    #headers['X-CMC_PRO_API_KEY'] = settings.API_KEY
+    #headers['x_cg_pro_api_key'] = settings.API_KEY
     
     response = requests.get(url, headers=headers, params=data)
 
